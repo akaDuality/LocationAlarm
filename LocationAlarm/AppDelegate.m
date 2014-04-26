@@ -62,7 +62,7 @@
         [self.window makeKeyAndVisible];
     }
     // Did You see this comment? :D
-    
+    // Yes, git is work
     
     return YES;
 }
