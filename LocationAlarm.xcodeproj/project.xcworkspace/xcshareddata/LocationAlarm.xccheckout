@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C2983B7-B438-4D39-A5CE-D376591A3E6C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LocationAlarm</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>651713E4-65C5-4B2D-8E47-0B8BCA0F9094</key>
+		<string>ssh://github.com/akaDuality/LocationAlarm.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LocationAlarm.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>651713E4-65C5-4B2D-8E47-0B8BCA0F9094</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/akaDuality/LocationAlarm.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>651713E4-65C5-4B2D-8E47-0B8BCA0F9094</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>651713E4-65C5-4B2D-8E47-0B8BCA0F9094</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LocationAlarm</string>
+		</dict>
+	</array>
+</dict>
+</plist>
